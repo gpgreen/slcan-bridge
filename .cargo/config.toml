@@ -12,7 +12,7 @@ rustflags = [
 ]
 
 [build]
-target = "thumbv7m-none-eabi" # Cortex-M3
+target = "thumbv6m-none-eabi" # Cortex-M0
 
 [alias]
 rb = "run --bin"
